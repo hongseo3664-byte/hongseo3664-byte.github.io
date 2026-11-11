@@ -2,6 +2,7 @@
 title: "Risv-v 프로젝트"
 excerpt: "risv-v로 만든 하드웨어<br/><img src='/images/risv-v.avif'>"
 collection: portfolio
+date: November 10, 2026
 ---
 
 # 프로젝트 소개
