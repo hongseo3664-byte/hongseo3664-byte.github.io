@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Risv-v 프로젝트"
+excerpt: "risv-v로 만든 하드웨어<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
