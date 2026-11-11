@@ -1,6 +1,6 @@
 ---
 title: "Risv-v 프로젝트"
-excerpt: "risv-v로 만든 하드웨어<br/><img src='/images/500x300.png'>"
+excerpt: "risv-v로 만든 하드웨어<br/><img src='/images/risv-v.avif'>"
 collection: portfolio
 ---
 
